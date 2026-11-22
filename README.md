@@ -1,10 +1,10 @@
 # news-2026-11-21
 
-[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
-[![rank](https://make.fun/badge/news-image-20261121/myvivlos/news-2026-11-21/rank.svg)](https://make.fun/bounty/news-image-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
-[![reward](https://make.fun/badge/news-image-20261121/myvivlos/news-2026-11-21/reward.svg)](https://make.fun/bounty/news-image-20261122?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261122)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/myvivlos/news-2026-11-21/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/myvivlos/news-2026-11-21/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-A single front page that sums up Sunday 22 November 2026: twelve numbered regional stories with
+A single front page that sums up Saturday 21 November 2026: twelve numbered regional stories with
 their icons, a world map whose pins carry the same numbers, twenty further headlines, and a
 figures strip. `main.ts` hands the finished 1024x1024 page in as `entry.png`.
 
